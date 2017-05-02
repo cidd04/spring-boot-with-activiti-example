@@ -1,6 +1,6 @@
-package org.activiti;
+package org.camunda;
 
-import org.activiti.engine.RuntimeService;
+import org.camunda.bpm.engine.RuntimeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;

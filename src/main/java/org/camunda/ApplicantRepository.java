@@ -1,4 +1,4 @@
-package org.activiti;
+package org.camunda;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

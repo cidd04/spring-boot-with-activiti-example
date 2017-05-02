@@ -1,4 +1,4 @@
-package org.activiti;
+package org.camunda;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
