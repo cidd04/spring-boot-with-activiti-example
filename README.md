@@ -1,6 +1,6 @@
 # Quickstart
 ## Preface
-We forked and migrated this camunda project into Camunda
+We forked and migrated this Activiti project into Camunda
 
 This document will describe how to get started with camunda and spring-boot. It is a port of the blog post [http://spring.io/blog/2015/03/08/getting-started-with-camunda-and-spring-boot](http://spring.io/blog/2015/03/08/getting-started-with-camunda-and-spring-boot). Minor tweaks to code and formatting have been done. Without further ado, the readme.
 
